@@ -1,6 +1,6 @@
 <%@ page language="java" contentType="text/html; charset=UTF-8"
 	pageEncoding="UTF-8"%>
-<%@ page import="myDto.SudokuData"%>
+<%@ page import="myPackage.SudokuData"%>
 <!DOCTYPE html>
 <html>
 <head>

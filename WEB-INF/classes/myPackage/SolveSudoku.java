@@ -1,10 +1,11 @@
+package myPackage;
 
 import java.util.Iterator;
 import java.util.Map;
 
 import javax.servlet.http.HttpServletRequest;
 
-import SudokuData;
+import myPackage.SudokuData;
 
 public class SolveSudoku {
 	SudokuData[] sudokuArray;

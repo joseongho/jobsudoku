@@ -1,4 +1,4 @@
-package myPackage.SudokuData;
+package myPackage;
 
 public class SudokuData {
 	private int answer;

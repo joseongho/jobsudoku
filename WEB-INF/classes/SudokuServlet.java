@@ -7,13 +7,11 @@ import javax.servlet.http.HttpServlet;
 import javax.servlet.http.HttpServletRequest;
 import javax.servlet.http.HttpServletResponse;
 
-import SolveSudoku;
-import SudokuData;
-
+import myPackage.SudokuData;
+import myPackage.SolveSudoku;
 /**
  * Servlet implementation class ReceiveData
  */
-@WebServlet("/SudokuServlet")
 public class SudokuServlet extends HttpServlet {
 	private static final long serialVersionUID = 1L;
 	SolveSudoku mySolveSudoku;
